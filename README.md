@@ -1,16 +1,5 @@
-## Hi there 👋
+## Olá, eu sou a Andre Cosmos, desenvolvedor de software , amante de programação e tecnologia!
 
-<!--
-**andrecosmos/andrecosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 Atualmente estou trabalhando em projetos que agregam valor
-- 🌱 Atualmente estou aprendendo typescript
-- 👯 Procuro colaborar em projetos sociais
-- 🤔 Procuro ajuda com oportunidades reais
-- 💬 Pergunte-me sobre mim
-- 📫 Como entrar em contato comigo: andrecosmos.1992@gmail.com
-- ⚡ Curiosidade: Eu sou curioso
--->
 
 
 
